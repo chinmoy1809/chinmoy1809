@@ -8,11 +8,9 @@
   <a href="https://leetcode.com/chinmoy1809/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/chinmoy1809?theme=unicorn&font=M%20PLUS%201&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/chinmoy1809?ext=heatmap)
 
 ---
-### 🔥 Github stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmoy1809&show_icons=true&theme=dark)
 
 ### 🔝 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmoy1809&layout=compact&theme=dark)
